@@ -26,11 +26,11 @@
 <profiles>
   <profile>
     <id>MyPerfil</id>
-    <actiation>
+    <activation>
       <os>
         <family>windows</family>
       </os>
-    </actiation>
+    </activation>
   
 
     <build>
